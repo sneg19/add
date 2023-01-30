@@ -3,6 +3,12 @@
 [-4, -6, 89, 6] -> 0
 */
 
+/* 
+1. Задать массив
+2. Задать нечетные позиции
+3. Посчитать сумму
+4. Вывести результат
+*/
 
 Console.Clear();
 
@@ -34,10 +40,9 @@ int index (int[] array)
 void main()
 {
 int[] our_array = get_array(-100, 100);
-int ar = index(our_array);
-Console.WriteLine(String.Join(",", our_array));
-Console.WriteLine(ar);
+int add = index(our_array);
+Console.WriteLine($"[{String.Join(",", our_array)}] -> сумма элемнетов, стоящих на нечетных позициях равна {add}");
 }
 
 
-
+main();
