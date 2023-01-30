@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "thNhWH2e5KqmtLONNzRq3KSRB8b/ms+NI6aojOu8ejz3Do1d9azJwjzYGox6juxvabO+XttpfZWca4TVnf2wcA==",
+  "success": true,
+  "projectFilePath": "/home/sneg/Documents/C#/progress_massiv/progress_massiv.csproj",
+  "expectedPackageFiles": [
+    "/home/sneg/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
